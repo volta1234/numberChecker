@@ -1,0 +1,8 @@
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.AssemblyInfoInputs.cache
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.AssemblyInfo.cs
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.csproj.CoreCompileInputs.cache
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.RazorAssemblyInfo.cache
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.RazorAssemblyInfo.cs
+C:\Users\pilly pendo\source\repos\numberChecker\obj\Debug\net8.0\numberChecker.sourcelink.json
