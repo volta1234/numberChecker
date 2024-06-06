@@ -30,6 +30,8 @@ namespace TaskApp.Controllers
                 else result.Add(i.ToString());
             }
             return Ok(result);
+
+            return View(); 
         }
 
         // 3. Find the largest number in a list

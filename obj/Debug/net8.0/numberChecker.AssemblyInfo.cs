@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numberChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e6df7c634567fb9e7c83310b0f166bf20740008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d66225ed382b7bb1764cbdf720af58b66311b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("numberChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numberChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
